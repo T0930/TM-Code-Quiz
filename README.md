@@ -12,7 +12,7 @@
 * Click start to play again to attempt to beat your score or refresh the page to reset highscore.
 
 # Screen Shot:  
-Will Update
+![Preview](https://github.com/T0930/TM-Code-Quiz/blob/main/images/codeQuiz.png?raw=true)
 
 # Deployed Website:
 [TM-Code-Quiz](https://t0930.github.io/TM-Code-Quiz/)
